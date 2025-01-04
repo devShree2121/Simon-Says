@@ -17,7 +17,7 @@
 ## Installation:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Simon-Says.git
+    git clone https://github.com/devShree2121/Simon-Says.git
     ```
 2. Open `index.html` in your browser.
 
